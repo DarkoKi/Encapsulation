@@ -15,4 +15,6 @@ public class Main {
         printer.stampanjeStranica(stampanjeStranica);
     }
     //prva ispravka
+   //drugi commit
+
 }
