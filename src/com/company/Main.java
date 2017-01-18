@@ -14,4 +14,5 @@ public class Main {
         int stampanjeStranica = 100;
         printer.stampanjeStranica(stampanjeStranica);
     }
+    //prva ispravka
 }
