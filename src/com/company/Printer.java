@@ -53,5 +53,5 @@ public class Printer {
         System.out.println("Ukupan broj odstampanih stranica je : " + ukupanBrOdstampanihStranica);
 
     }
-//i ovo za stash
+//obrisano za stash
 }
